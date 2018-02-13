@@ -1,4 +1,4 @@
-from pysettings import conf
+from pyforms import conf
 import cv2, numpy as np, os
 import base64
 from pythonvideoannotator.utils.tools import make_lambda_func
